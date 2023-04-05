@@ -1,7 +1,7 @@
 <h1 align="center">Here is What I'm Working On!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=100&color=6290F7&center=true&vCenter=true&width=435&lines=Welcome+to+My+Git+Hub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=100&color=6290F7&center=true&vCenter=true&width=800&height=70&lines=Welcome+to+My+Git+Hub)](https://git.io/typing-svg)
 
 ---
 

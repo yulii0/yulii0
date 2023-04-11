@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2500&pause=1&color=F7E476&vCenter=true&multiline=true&width=800&height=150&lines=Project+-+%22Chocolate%22.+;This+website+created+by+our+team%3A;%22Nutty+GitHub+Pushers%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2500&pause=1&color=F7E476&vCenter=true&multiline=true&width=800&height=150&lines=Project+-+%22Chocolate%22.+;This+website+created+by+our+team%3A;%22Sweet+GitHub+Pushers%22+)](https://git.io/typing-svg)
 ![4](https://user-images.githubusercontent.com/122307040/231260516-8514e71d-6871-4039-a488-8d713808df25.png)
 
 # Team members:

@@ -15,3 +15,8 @@
 
 # Tools: Vanilla App
 This project was created using Vite. For knowledge and configuration of additional features, refer to the [documentation](https://vitejs.dev/).
+
+## What we used:
+- HTML
+- CSS
+- JS

@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=350&color=F7E238&vCenter=true&multiline=true&width=800&height=100&lines=Project+-+%22Chocolate%22.+;This+website+was+created+by+our+team.)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2500&pause=1&color=F79C7D&vCenter=true&multiline=true&width=800&height=150&lines=%22Nutty+GitHub+Pushers%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=2500&pause=1&color=F7E476&vCenter=true&multiline=true&width=800&height=150&lines=Project+-+%22Chocolate%22.+;This+website+created+by+our+team%3A;%22Nutty+GitHub+Pushers%22)](https://git.io/typing-svg)
 ![4](https://user-images.githubusercontent.com/122307040/231260516-8514e71d-6871-4039-a488-8d713808df25.png)
 
 # Team members:
@@ -15,7 +14,7 @@
 - [@Катерина Сукова](https://github.com/Katerynas82) - Developer, "Footer" section.
 - @Катерина Макаричак - Developer.
 
-# Tools: Vanilla App
+# Tools: Vanilla App Template
 This project was created using Vite. For knowledge and configuration of additional features, refer to the [documentation](https://vitejs.dev/).
 
 ## What we used:

@@ -18,6 +18,7 @@
 This project was created using Vite. For knowledge and configuration of additional features, refer to the [documentation](https://vitejs.dev/).
 
 ## What we used:
-- HTML
-- CSS
-- JS
+<div id="stats">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=yulii0&theme=default" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yulii0&theme=default" />
+</div>

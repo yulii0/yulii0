@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=350&color=F7E238&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Project+-+%22Chocolate%22.+;This+website+was+created+by+our+team.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=350&color=F7E238&vCenter=true&multiline=true&width=800&height=100&lines=Project+-+%22Chocolate%22.+;This+website+was+created+by+our+team.)](https://git.io/typing-svg)
 
 ![123](https://user-images.githubusercontent.com/122307040/231259653-d920a0e2-bcb1-40f5-b7a3-5ef6c2dc1ec9.png)
 

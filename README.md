@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=3000&pause=350&color=F7E238&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Project+-+%22Chocolate%22.+;This+website+was+created+by+our+team.)](https://git.io/typing-svg)
 
+![team1](https://user-images.githubusercontent.com/122307040/231258759-5cbb1821-0e88-49ce-a860-d599a1987ab4.png)
+
 # Team members:
 - [@Владислав Гончар](https://github.com/Tienam123) - Team-lead, "Header" section.
 - [@Юлій Кінаш](https://github.com/yulii0) - Developer, "Hero" section.

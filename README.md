@@ -1,6 +1,4 @@
-# Project - "Chocolate".
-<h1 align="center">This site was created by our team.</h1>
-<img src="https://drive.google.com/file/d/1lT2pN-aZi5DvNLSv6eIhQHVrlr4uNksu/view?usp=sharing" height="32"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=3000&pause=350&color=F7E238&center=true&vCenter=true&multiline=true&width=600&height=70&lines=Project+-+%22Chocolate%22.+;This+website+was+created+by+our+team.)](https://git.io/typing-svg)
 
 # Team members:
 - [@Владислав Гончар](https://github.com/Tienam123) - Team-lead, "Header" section.
